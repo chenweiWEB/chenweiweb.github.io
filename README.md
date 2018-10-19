@@ -1,2 +1,2 @@
 # chenweiweb.github.io
-#主页
+*主页
